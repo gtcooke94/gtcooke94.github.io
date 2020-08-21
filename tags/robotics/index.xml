@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Gregory Cooke</title>
+    <link>gregorycooke.me/tags/robotics/</link>
+    <description>Recent content in Robotics on Gregory Cooke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="gregorycooke.me/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trust-based Information Propagation on Multi-robot Teams in Noisy Low-communication Environments</title>
+      <link>gregorycooke.me/publications/trustbasedrobots/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gregorycooke.me/publications/trustbasedrobots/</guid>
+      <description>One of the challenging requirements of large multi-robot systems is scalable communication methods that are robust to noisy low-communication environments. On a multi-hop, wireless sensor network, it may be desirable for a node to issue a system-wide alert on detection of an event of interest. However, if there is a high false-positive rate, then system-wide false alarms may frequently occur. Giant honeybees (Apis dorsata) generate large-scale spiral waves triggered by the presence of a threat.</description>
+    </item>
+    
+    <item>
+      <title>Bio-inspired Nest-Site Selection for Distributing Robots in Low-Communication Environments</title>
+      <link>gregorycooke.me/publications/nestsiteselection/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gregorycooke.me/publications/nestsiteselection/</guid>
+      <description>We consider the problem of using only local communication to implement a distributed algorithm for large teams of mobile robots that searches space for locations of interest and distributes the robots across those locations according to quality. Toward this end, we take inspiration from insect societies that are able to coordinate without the use of pheromone trails. In particular, we focus on species that use only one-on-one local interactions to adaptively distribute scouts during nest-site selection tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
